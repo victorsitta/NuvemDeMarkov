@@ -113,6 +113,9 @@ Dia 15: Ensolarado
 
 ---
 
+<img width="658" height="361" alt="image" src="https://github.com/user-attachments/assets/e22679ae-d6e7-4c74-9b63-158e8a87b5c3" />
+
+
 <div align="center">
   <p>Desenvolvido por <strong>João Victor Sitta</strong> durante o programa <strong>Tech Builder</strong> 🚀</p>
 </div>
