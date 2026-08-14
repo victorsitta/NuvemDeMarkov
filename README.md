@@ -20,7 +20,7 @@
 
 > [!NOTE]
 > **Contexto do Projeto:**  
-> Projeto focado na implementação prática de **Processos Estocásticos** e **Cadeias de Markov**, aplicando probabilidade condicional para simulação e modelagem temporal de dados climáticos.
+> Projeto desenvolvido durante o programa **Tech Builder**, focado na implementação prática de **Processos Estocásticos** e **Cadeias de Markov**, aplicando probabilidade condicional para simulação e modelagem temporal de dados climáticos.
 
 ---
 
@@ -77,10 +77,10 @@ pip install numpy
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU_USUARIO/weather-markov-chain.git](https://github.com/SEU_USUARIO/weather-markov-chain.git)
+git clone [https://github.com/SEU_USUARIO/NuvemDeMarkov.git](https://github.com/SEU_USUARIO/NuvemDeMarkov.git)
 
 # 2. Acesse a pasta do projeto
-cd weather-markov-chain
+cd NuvemDeMarkov
 
 # 3. Execute o script principal
 python index.py
@@ -88,20 +88,18 @@ python index.py
 
 ---
 
-## 📈 Saída Esperada (Exemplo de Simulação)
-
-Por se tratar de um processo estocástico, os resultados variam a cada execução respeitando as probabilidades da matriz:
+## 📈 Saída Esperada no Terminal
 
 ```text
 --- PREVISÃO DO TEMPO (CADEIA DE MARKOV) ---
 Estado Inicial: Ensolarado
 
 Dia 01: Ensolarado
-Dia 02: Ensolarado
+Dia 02: Nublado
 Dia 03: Nublado
-Dia 04: Chuvoso
-Dia 05: Chuvoso
-Dia 06: Ensolarado
+Dia 04: Nublado
+Dia 05: Nublado
+Dia 06: Nublado
 Dia 07: Ensolarado
 Dia 08: Ensolarado
 Dia 09: Nublado
@@ -109,12 +107,12 @@ Dia 10: Nublado
 Dia 11: Ensolarado
 Dia 12: Ensolarado
 Dia 13: Ensolarado
-Dia 14: Nublado
-Dia 15: Chuvoso
+Dia 14: Ensolarado
+Dia 15: Ensolarado
 ```
 
 ---
 
 <div align="center">
-  <p>Desenvolvido por <strong>João Victor Sitta</strong> 🚀</p>
+  <p>Desenvolvido por <strong>João Victor Sitta</strong> durante o programa <strong>Tech Builder</strong> 🚀</p>
 </div>
